@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lakruwan Kavinda</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate frontend developer and a designer from Sri Lanka</h3>
 <h5>👋 Welcome to my GitHub profile! I'm a burgeoning software engineer on a mission to delve deep into the realm of full-stack development. As a newcomer in this dynamic field, I'm brimming with enthusiasm to embark on a journey marked by continuous learning, boundless growth, and unbridled creativity.
 
 Through my projects showcased here, you'll witness my unwavering dedication to refining my craft and crafting ingenious solutions that seamlessly blend front-end finesse with back-end robustness. Each repository is a testament to my commitment to mastering the intricacies of software development while pushing the boundaries of innovation.
