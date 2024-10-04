@@ -10,7 +10,7 @@ Join me as I meticulously document my progress, share insights gleaned from chal
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakruwankavinda" alt="lakruwankavinda" /></a> </p>
 
-- 🔭 I’m currently working on **AudiRAB**
+- 🔭 I’m currently working on **Titan fitness gym managemnet system**
 
 - 🌱 I’m currently learning **Django framework**
 
